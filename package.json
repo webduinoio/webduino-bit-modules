@@ -1,0 +1,18 @@
+{
+  "name": "webduino-bit-modules",
+  "version": "1.0.0",
+  "description": "Module for Webduino:bit.",
+  "main": "index.js",
+  "repository": "https://github.com/webduinoio/webduino-bit-modules",
+  "homepage": "https://webduino.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino",
+    "webduino",
+    "webduino:bit"
+  ],
+  "author": "",
+  "license": "MIT"
+}
