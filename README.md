@@ -1,10 +1,10 @@
 # webduino-bit-modules
 
-Module for Webduino:bit.
+Webduino:bit module for Node.js.
 
 ## Installation
-```sh
-$ npm install webduino-bit-modules
+```shell
+npm install webduino-bit-modules
 ```
 
 ## Usage
