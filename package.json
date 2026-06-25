@@ -21,5 +21,10 @@
     "webduino-bit-module-dht": "^0.1.2",
     "webduino-bit-module-led-matrix": "^0.1.4",
     "webduino-bit-module-thermistor": "^0.1.2"
+  },
+  "overrides": {
+    "websocket-stream": {
+      "ws": "5.2.5"
+    }
   }
 }
