@@ -23,8 +23,6 @@
     "webduino-bit-module-thermistor": "^0.1.2"
   },
   "overrides": {
-    "websocket-stream": {
-      "ws": "5.2.5"
-    }
+    "ws": "5.2.5"
   }
 }
